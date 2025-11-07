@@ -1,5 +1,6 @@
-## Hi there 👋
-🌱 I’m currently learning GitHub and Game Dev
+## Hi 
+I'm a Unity Game Developer & Programmer
+Working on my games right now
 
 
 <!--
