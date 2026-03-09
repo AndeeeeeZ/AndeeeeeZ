@@ -1,6 +1,13 @@
 ## Hi 
-I'm a Unity Game Developer & Programmer  
-Working on my games right now
+I'm a Game Developer & Programmer
+Current focus:
+- 2D & 3D in Unity Game Engine
+- Gameplay programming
+- Writing clean code utilizing programming patterns and component architecture
+- Create systems that are easy to maintain and expand on
+- Exploring my path as a game developer and programmer
+
+I'm gonna work on my games now. 
 
 
 <!--
