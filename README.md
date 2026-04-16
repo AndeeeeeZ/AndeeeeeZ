@@ -1,5 +1,6 @@
 ## Hi 
 I'm a Game Developer & Programmer
+
 Current focus:
 - 2D & 3D in Unity Game Engine
 - Gameplay programming
